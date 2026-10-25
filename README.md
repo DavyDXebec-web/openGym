@@ -1,4 +1,6 @@
-<div align="center">
+<div align="center">    
+
+My copy of openGym, learning Git by Bekim.
 
 <img src="assets/banner.png" alt="openGym" width="720">
 
